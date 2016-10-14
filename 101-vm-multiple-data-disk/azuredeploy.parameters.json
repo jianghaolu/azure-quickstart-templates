@@ -6,10 +6,10 @@
       "value": "azureUser"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "StrongPass!123"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "uniqueazure56679"
     },
     "vmSize": {
       "value": "Standard_D2"
